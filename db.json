@@ -32,10 +32,14 @@
         },
         {
           "id": 3,
-          "titulo": "Cancelada"
+          "titulo": "Hospedagem ativa"
         },
         {
           "id": 4,
+          "titulo": "Cancelada"
+        },
+        {
+          "id": 5,
           "titulo": "Concluída"
         }
       ],
