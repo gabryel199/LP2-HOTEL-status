@@ -1,0 +1,78 @@
+{
+  "statusHospedagem": [
+        {
+          "id": 1,
+          "titulo": "Ativa - Paga"
+        },
+        {
+          "id": 2,
+          "titulo": "Ativa - Não paga"
+        },
+        {
+          "id": 3,
+          "titulo": "Extendida - Paga"
+        },
+        {
+          "id": 4,
+          "titulo": "Extendida - Não paga"
+        },
+        {
+          "id": 5,
+          "titulo": "Concluída"
+        }
+      ],
+  "statusReserva": [
+        {
+          "id": 1,
+          "titulo": "Ativa - Paga"
+        },
+        {
+          "id": 2,
+          "titulo": "Ativa - Não paga"
+        },
+        {
+          "id": 3,
+          "titulo": "Cancelada"
+        },
+        {
+          "id": 4,
+          "titulo": "Concluída"
+        }
+      ],
+  "statusQuarto": [
+        {
+          "id": 1,
+          "titulo": "Ocupado"
+        },
+        {
+          "id": 2,
+          "titulo": "Desocupado"
+        },
+        {
+          "id": 3,
+          "titulo": "Manutenção"
+        },
+        {
+          "id": 4,
+          "titulo": "Concluída"
+        }
+      ],
+  "statusServico": [
+        {
+          "id": 1,
+          "titulo": "Disponível"
+        },
+        {
+          "id": 2,
+          "titulo": "Ocupado"
+        },
+        {
+          "id": 3,
+          "titulo": "Manutenção"
+        },
+        {
+          "id": 4,
+          "titulo": "Concluída"
+        }
+      ]
+}
