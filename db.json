@@ -51,10 +51,6 @@
         {
           "id": 3,
           "titulo": "Manutenção"
-        },
-        {
-          "id": 4,
-          "titulo": "Concluída"
         }
       ],
   "statusServico": [
@@ -69,10 +65,6 @@
         {
           "id": 3,
           "titulo": "Manutenção"
-        },
-        {
-          "id": 4,
-          "titulo": "Concluída"
         }
       ]
 }
