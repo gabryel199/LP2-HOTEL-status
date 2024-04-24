@@ -1,5 +1,5 @@
 {
-  "statusHospedagem": [
+  "statusHospedagens": [
         {
           "id": 1,
           "titulo": "Ativa - Paga"
@@ -25,7 +25,7 @@
           "titulo": "Concluída"
         }
       ],
-  "statusReserva": [
+  "statusReservas": [
         {
           "id": 1,
           "titulo": "Ativa - Paga"
@@ -47,7 +47,7 @@
           "titulo": "Concluída"
         }
       ],
-  "statusQuarto": [
+  "statusQuartos": [
         {
           "id": 1,
           "titulo": "Ocupado"
@@ -61,7 +61,7 @@
           "titulo": "Manutenção"
         }
       ],
-  "statusServico": [
+  "statusServicos": [
         {
           "id": 1,
           "titulo": "Disponível"
